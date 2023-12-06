@@ -25,7 +25,7 @@ II. Методы
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/added_data_patients.png)
 
-3. Изменить пациента в отделении и изменить отделение:
+2. Изменить пациента в отделении и изменить отделение:
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/edited.png)
 
@@ -39,7 +39,7 @@ II. Методы
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/edited_data_patients.png)
 
-5. Удалить пациента из отделения и удалить отделение вместе с пациентами:
+3. Удалить пациента из отделения и удалить отделение вместе с пациентами:
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/deleted.png)
 
@@ -53,16 +53,16 @@ II. Методы
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/deleted_data_patients.png)
 
-7. Список всех пациентов:
+4. Список всех пациентов:
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/getlist_all_and_one.png)
    
-9. Список пациентов в отделении:
+5. Список пациентов в отделении:
     
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/getlist_all_and_one.png)
    
    Так как мы удалили другое отделение, то результат не изменился
    
-11. Список отделений:
+6. Список отделений:
     
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/getlist_departments.png)

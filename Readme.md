@@ -45,7 +45,10 @@ II. Методы
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/getlist_all_and_one.png)   
 9. Список пациентов в отделении:
+    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/getlist_all_and_one.png)
+   
    Так как мы удалили другое отделение, то результат не изменился
-10. Список отделений:
+11. Список отделений:
+    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/getlist_departments.png)

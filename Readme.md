@@ -10,7 +10,7 @@ I. База данных
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/data_departments.png)
    
-II. Методы
+II. Методы (выполняются последовательно)
 1. Добавить отделения и добавить пациентов в отделения:
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/added.png)

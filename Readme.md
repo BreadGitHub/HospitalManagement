@@ -17,11 +17,11 @@ II. Методы
 
    В базе данных:
 
-   Таблица Отделения:
+   1. Таблица Отделения:
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/added_data_departments.png)
 
-   Таблица Пациенты:
+   2. Таблица Пациенты:
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/added_data_patients.png)
 
@@ -31,11 +31,11 @@ II. Методы
 
    В базе данных:
 
-   Таблица Отделения:
+   1. Таблица Отделения:
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/edited_data_departments.png)
 
-   Таблица Пациенты:
+   2. Таблица Пациенты:
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/edited_data_patients.png)
 
@@ -45,11 +45,11 @@ II. Методы
 
    В базе данных:
 
-   Таблица Отделения:
+   1. Таблица Отделения:
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/deleted_data_departments.png)
 
-   Таблица Пациенты:
+   2. Таблица Пациенты:
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/deleted_data_patients.png)
 

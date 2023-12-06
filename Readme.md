@@ -2,11 +2,11 @@
 
 I. База данных
 
-   1. Таблица Пациенты:
+   i. Таблица Пациенты:
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/data_patients.png)
    
-   2. Таблица Отделения:
+   ii. Таблица Отделения:
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/data_departments.png)
    

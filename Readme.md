@@ -1,12 +1,12 @@
 Вариант 16: Больница. Сделана с использованием базы данных postgreSQL.
 
 I. База данных
-
-   i. Таблица Пациенты:
+1. Таблицы
+   1. Таблица Пациенты:
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/data_patients.png)
    
-   ii. Таблица Отделения:
+   2. Таблица Отделения:
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/data_departments.png)
    

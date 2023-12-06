@@ -17,11 +17,11 @@ II. Методы
 
    В базе данных:
 
-   Отделения:
+   Таблица Отделения:
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/added_data_departments.png)
 
-   Пациенты:
+   Таблица Пациенты:
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/added_data_patients.png)
 
@@ -31,7 +31,11 @@ II. Методы
 
    В базе данных:
 
+   Таблица Отделения:
+
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/edited_data_departments.png)
+
+   Таблица Пациенты:
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/edited_data_patients.png)
 
@@ -41,18 +45,24 @@ II. Методы
 
    В базе данных:
 
+   Таблица Отделения:
+
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/deleted_data_departments.png)
+
+   Таблица Пациенты:
 
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/deleted_data_patients.png)
 
 7. Список всех пациентов:
 
-   ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/getlist_all_and_one.png)   
+   ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/getlist_all_and_one.png)
+   
 9. Список пациентов в отделении:
     
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/getlist_all_and_one.png)
    
    Так как мы удалили другое отделение, то результат не изменился
+   
 11. Список отделений:
     
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/getlist_departments.png)

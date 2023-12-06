@@ -6,7 +6,7 @@ I. База данных
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/data_patients.png)
    
-3. Таблица Отделения:
+2. Таблица Отделения:
    
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/data_departments.png)
    
@@ -17,8 +17,12 @@ II. Методы
 
    В базе данных:
 
+   Отделения:
+   
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/added_data_departments.png)
 
+   Пациенты:
+   
    ![Screenshot](https://github.com/BreadGitHub/Trinkets/blob/main/hospital/added_data_patients.png)
 
 3. Изменить пациента в отделении и изменить отделение:
